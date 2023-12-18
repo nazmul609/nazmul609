@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nazmul</h1>
-<h3 align="center">Computer Science and Engineering Graduate FROM KUET. Can able to perform well under stress and make the most of any circumstance. Dedicated person with excellent communication and interpersonal abilities.</h3>
+<h3 align="center">Computer Science and Engineering Graduate From KUET. Can able to perform well under stress and make the most of any circumstance. Dedicated person with excellent communication and interpersonal abilities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmul609&label=Profile%20views&color=0e75b6&style=flat" alt="nazmul609" /> </p>
 
