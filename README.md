@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazmul609" alt="nazmul609" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, Node Js, Express Js**
+- 🌱 I’m currently learning **Java, Spring Boot**
 
 - 📫 How to reach me **nazmulhq101@gmail.com**
 
