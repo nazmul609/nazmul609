@@ -3,8 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nazmul609&label=Profile%20views&color=0e75b6&style=flat" alt="nazmul609" /> 
-  <img src="https://img.shields.io/github/followers/nazmul609?label=Follow" alt="GitHub Followers" />
-  <img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="Coding Activity" />
 </p>
 
 ---
