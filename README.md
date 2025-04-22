@@ -10,7 +10,6 @@
 **Full-Stack Software Engineer** with expertise in **Java/Spring Boot** and **React.js**, building scalable microservices and cloud-native applications.  
 - 💼 **Software Developer** at Peytosoft Corp (Remote) | **React, Java, Spring Boot, Microservices**  
 - 🎓 **B.Sc. in CSE** from Khulna University of Engineering & Technology (KUET)  
-- 🔬 **Researcher** in AI/Computer Vision | Published in **Springer**  
 - 🌐 **Full-Stack Focus**: From UI (React) to Infrastructure (AWS/Kubernetes)  
 
 ---
@@ -20,12 +19,12 @@
 ### **Languages & Frameworks**
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/> 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   
 </p>
 
@@ -57,7 +56,7 @@
 
 ## 📌 Current Focus
 
-- **Full-Stack Development**: End-to-end solutions with React + Spring Boot  
+- **Full-Stack Development**: End-to-end solutions with React, Spring Boot. 
 - **System Design**: Scalable architectures for high-traffic applications  
 - **AWS Cloud**: Serverless, ECS, and infrastructure automation  
 - **AI/ML Research**: Computer vision and deep learning applications  
@@ -85,20 +84,22 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nazmul609&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <i>Contributing to 5+ private repositories at Peytosoft Corp</i>  
-</p>
 
 ---
 
 ## Contact
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/nazmul-hq/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:nazmulhq101@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
+---
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code." - John Johnson</i>
+</p>
