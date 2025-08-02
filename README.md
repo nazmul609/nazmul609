@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nazmul </h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%2F+Spring+Boot+Expert;Cloud+%7C+DevOps+%7C+AI+Enthusiast;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+
 <h3 align="center">Software Engineer | Full-Stack Developer | Cloud & AI Enthusiast</h3>
 
 <p align="center">
