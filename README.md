@@ -27,10 +27,6 @@
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   
-</p>
-## 🧰 Toolbox
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,ts,nodejs,python,docker,kubernetes,postgres,mongodb,git,github,aws,azure,figma,vscode,intellij" />
 
 ### **Cloud & DevOps**
 <p>
@@ -88,6 +84,9 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nazmul609&theme=radical" alt="GitHub Streak" />
 </p>
 
+## 🐍
+
+![snake gif](https://github.com/nazmul609/nazmul609/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
