@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nazmul </h1>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 
 <h3 align="center">Software Engineer | Full-Stack Developer | Cloud & AI Enthusiast</h3>
 
@@ -29,6 +28,9 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   
 </p>
+## 🧰 Toolbox
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,ts,nodejs,python,docker,kubernetes,postgres,mongodb,git,github,aws,azure,figma,vscode,intellij" />
 
 ### **Cloud & DevOps**
 <p>
