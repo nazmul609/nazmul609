@@ -84,9 +84,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nazmul609&theme=radical" alt="GitHub Streak" />
 </p>
 
-## 🐍
-
-![snake gif](https://github.com/nazmul609/nazmul609/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
